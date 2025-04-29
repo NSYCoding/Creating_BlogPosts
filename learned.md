@@ -17,4 +17,5 @@ I have (further) learned:
 
 I hope my information or code has been valuable.
 
-The Github link:
+The Github link: https://github.com/NSYCoding/Creating_BlogPosts
+(Translated from Dutch...)
